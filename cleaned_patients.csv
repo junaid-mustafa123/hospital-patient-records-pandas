@@ -1,0 +1,6 @@
+PatientID,Name,Age,Gender,Diagnosis,Medicine,Charges,Status
+1,Ayesha,25,F,Flu,aracetamol,500.0,Discharged
+2,Bilal,32,M,,To be Prescribed,0.0,Admitted
+3,Zara,45,F,Diabetes,Insulin ,5000.0,Discharged
+4,Hassan,60,M,Heart Diseas,To be Prescribed,15000.0,Admitted
+5,Fatima,29,F,,To be Prescribed,0.0,Admitted
